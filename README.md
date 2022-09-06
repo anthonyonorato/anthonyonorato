@@ -3,7 +3,7 @@
 - 🌱 Studying the MERN stack throught MIT's xPRO course
 - 🌱 Currently working on The Odin Project
 - 🌱 Attending Harvard's CS50 course
-- 💞️ I’m looking to collaborate on learning how to be a proficient coder
+- 💞️ I’m looking to collaborate on projects while improving as a programmer
 - 📫 How to reach me,  email: anthonyonorato@gmail.com IG: @anthony_onorato
 
 <!---
